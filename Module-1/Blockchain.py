@@ -1,7 +1,7 @@
 # Module 1 Create  A Blockchain
 #Importing necessary libaries
 import datetime
-import hashlib
+import hashlib # Libary use to generate the hash code of secure hash algorithm i.e 256 
 import json
 from flask import Flask ,jsonify
 #Building a Blockchain
